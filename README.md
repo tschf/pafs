@@ -1,6 +1,6 @@
 # PL/SQL API for Stripe
 
-This API is used to charge cards from an APEX application. Basis usage:
+This API is used to charge cards from an APEX application. Basic usage:
 
 ```plsql
 begin
